@@ -1,0 +1,6 @@
+spring:
+  rabbitmq:
+    host: dinosaur.rmq.cloudamqp.com
+    virtual-host: vhomqvrf
+    username: vhomqvrf
+    password: zD6NuUUYh2VnaNMpRbhUXavHT_RVwFX1
